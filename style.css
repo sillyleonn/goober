@@ -1,4 +1,6 @@
 body{
-  background: url(racooncity.jpeg)no-repeat center center;
-  background-size: cover;
+  background: url(racooncity.jpeg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
 }
