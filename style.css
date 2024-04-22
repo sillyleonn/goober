@@ -1,6 +1,6 @@
 body{
   font-family: ms gothic;
-  background: url(racooncity.jpeg);
+  background: url(forestbg.jpeg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
@@ -8,6 +8,7 @@ body{
 }
 
 .container1{
+  color: white;
   display: grid;
   grid-template-areas: "header header" "nav main" "footer footer"
 }
